@@ -1,8 +1,8 @@
-
+<img src="C:\Users\bhagalpur\Downloads\github.png">
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
-<img align="right" alt="comding" width="400" src="https://cdn.dribbble.com/users/4479253/screenshots/12231271/git_developer_4x.jpg">
+<img align="center" alt="comding" width="1200" src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1200%2C630">
 
 
 <p align="left"> <a href="https://twitter.com/himanshu4030" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu4030?logo=twitter&style=for-the-badge" alt="himanshu4030" /></a> </p>
