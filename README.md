@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
-<img align="right" alt="comding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F12231271-Git-Developer-illustration&psig=AOvVaw10P5-prUcr8J-4ZdD1mbVY&ust=1678026134429000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDZk8-8wv0CFQAAAAAdAAAAABAf">
+<img align="right" alt="comding" width="400" src="https://cdn.dribbble.com/users/4479253/screenshots/12231271/git_developer_4x.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu181749&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu181749" /> </p>
 
