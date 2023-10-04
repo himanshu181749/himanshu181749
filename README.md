@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 
 <!--                      You can copy me, but the paste won't be the same!                  -->
 
-[![An image of @sohaildotcss's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohaildotcss)](https://holopin.io/@sohaildotcss)
+[![An image of @himanshu181749's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshu181749)](https://holopin.io/@himanshu181749)
 
 <!--
 <h1 align="center">
