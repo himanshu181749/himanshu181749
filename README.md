@@ -79,7 +79,9 @@ Here are some ideas to get you started:
 -->
 
 
-[Holopin Profile](https://holopin.me/himanshu181749)
+
+[![An image of @himanshu181749's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshu181749)](https://holopin.io/@himanshu181749)
+
 
 # Himanshu Gupta <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
@@ -99,12 +101,18 @@ Here are some ideas to get you started:
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 </span>
 
+<div align="center">
+  <h2>🍃 My Contributions 🍃</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/>
+</div>
+
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/himanshu-gupta-4a5942201/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/himanshu4030) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/_himanshu1817/) | [<img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" alt="Github logo" width="34">](https://github.com/himanshu181749) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:ce200004018@iiti.ac.in)
 
 
 <!--                      You can copy me, but the paste won't be the same!                  -->
 
-[![An image of @himanshu181749's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshu181749)](https://holopin.io/@himanshu181749)
 
 <!--
 <h1 align="center">
