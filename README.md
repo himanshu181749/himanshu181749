@@ -79,19 +79,21 @@ Here are some ideas to get you started:
 -->
 
 
-[An image of @himanshu181749's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshu181749)](https://holopin.io/@himanshu181749)
-# Himanshu Gupta ;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+[Holopin Profile](https://holopin.me/himanshu181749)
+
+# Himanshu Gupta <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
-### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, 
+### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,
+
 <p>
   <em>
-    I am a Final Year undergraduate from <a href="https://www.iiti.ac.in/"> <b>Indian Institute of Technology</b>, Indore</a>.  
+    I am a Final Year undergraduate from <a href="https://www.iiti.ac.in/"> <b>Indian Institute of Technology</b>, Indore</a>.
     A  <b>Web  Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a passionate coder who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
-  </em>  
+  </em>
 </p>
 <span>Connect with me on any of these platforms :
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
@@ -100,7 +102,3 @@ Here are some ideas to get you started:
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/himanshu-gupta-4a5942201/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/himanshu4030) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/_himanshu1817/) | [<img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" alt="Github logo" width="34">](https://github.com/himanshu181749) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:ce200004018@iiti.ac.in)
 |:---:|:---:|:---:|:---:|:---:|
 
-
-
-<br>
-<br>
