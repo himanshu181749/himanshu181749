@@ -77,6 +77,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![An image of @himanshu181749's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshu181749)](https://holopin.io/@himanshu181749)
 # Himanshu Gupta ;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
