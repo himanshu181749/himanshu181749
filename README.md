@@ -129,24 +129,6 @@ Here are some ideas to get you started:
 
 
 
-<img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="">
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=sohaildotcss&label=Profile%20views&color=0e75b6&style=flat"
-        alt="sohaildotcss" /> </p>
-
-
-
-
-
-
-<p> 
-- 🍔 I'm currently working on **Food Ordering Website.**
-<p>
-- 👀 I'm currently learning **React with NextJS, MongoDB, Excel.**
-<p>
-- 💌 How to reach me **sohaildotcss@gmail.com**
-<p>
-- 💀 Fun fact **"I speak fluent CSS and JavaScript, but my favorite language is Sarcasm."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
