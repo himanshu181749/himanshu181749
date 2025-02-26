@@ -82,9 +82,15 @@ Here are some ideas to get you started:
 
 [![An image of @himanshu181749's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshu181749)](https://holopin.io/@himanshu181749)
 
-
+<!--
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=4000&pause=1000&color=FFF7EF&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Himanshu+Gupta+%F0%9F%91%8B;+An+aspiring+Fullstack+Developer+👨‍💻](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=4000&pause=1000&color=FFF7EF&background=00000000&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Himanshu+Gupta+%F0%9F%91%8B;An+aspiring+Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB">
+</h1>
+
+-->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=4000&pause=1000&color=FFF7EF&background=00000000&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Himanshu+Gupta+%F0%9F%91%8B;A+Software+Engineer+Specializing+in+DevOps;Expert+in+Building+Scalable+and+Resilient+Systems+🚀">
 </h1>
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
